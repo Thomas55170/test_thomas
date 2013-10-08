@@ -8,6 +8,7 @@ import java.util.ArrayList;
  * Date: 30/09/13
  * Time: 20:25
  * To change this template use File | Settings | File Templates.
+ * Changé par Edouard
  */
 public class Librairie {
     private ArrayList<Etagere> listeEtageres;
